@@ -1,7 +1,7 @@
 package socket;
 
 
-//123
+//123456
 public class Demo {
 	public static int inc (int temp){
 		if(temp>0){
