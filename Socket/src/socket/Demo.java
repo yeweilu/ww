@@ -1,6 +1,5 @@
 package socket;
 
-//456faf
 public class Demo {
 	public static int inc (int temp){
 		if(temp>0){
